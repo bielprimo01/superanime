@@ -1,0 +1,68 @@
+body {
+
+}
+
+h1 {
+
+}
+
+.thumbnail {
+  height: 300px;
+  width: 300px;
+}
+
+li {
+  font-family: 'Open Sans', sans-serif;
+}
+
+h2 {
+  font-family: 'Open Sans', sans-serif;
+}
+
+#mainNavigation {
+	background-color: yellow;
+}
+
+#mainNavigation * {
+	font-family: 'Indie Flower', cursive !important;
+	background-color: yellow;
+	color: black;
+	text-shadow: 2px 2px 5px gray;
+}
+
+.orbit ul li {
+	width: 100vw;
+	height: 90vh;
+	}
+
+.media-object {
+	display: flex;
+	flex-direction: column;
+}
+.media-object-section {
+	display: flex;
+	flex-direction: row;
+	margin-top: 5px;
+}
+.media-object-section p{
+	margin-left: 5px;
+}
+
+.text-center h2{
+	font-family: 'Indie Flower', cursive !important;
+}
+
+#botao {
+	background-color: yellow;
+	color: black;
+}
+
+h4 {
+	font-family: 'Indie Flower', cursive !important;
+	color: black;
+}
+
+
+#barra-inferior {
+	background-color: yellow;
+}
